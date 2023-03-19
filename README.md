@@ -1,6 +1,6 @@
 ## Subdomain_Enumeration : find subdomains of a target domain name. The script first prompts the user to input the target domain name and creates a file to store the output.
 
-![Subdomain_Enumeration_Passiv](https://raw.githubusercontent.com/TNRooT/bruteforcedomain/master/master/static/banner.png?token=GHSAT0AAAAAACAHTLNJVA7GZPBLEJGZPLCEZAXFIHA)
+![/Banner.png](https://github.com/TNRooT/subdomain-enumerationpassiv/blob/master/Banner.png))
 
 ### Key Features :
 
